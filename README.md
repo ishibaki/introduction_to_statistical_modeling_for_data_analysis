@@ -9,3 +9,5 @@
 
 > 統計とか検定とか全く分かりましぇん．  
 > <img src="https://i.gyazo.com/1ae1183f1eaff3cff9c219cace9db217.jpg" width=150> *ishibaki*
+
+[`ohke/introduction_to_statistical_modeling_for_data_analysis`](https://github.com/ohke/introduction_to_statistical_modeling_for_data_analysis)も参考にした．
